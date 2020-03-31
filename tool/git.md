@@ -3,6 +3,12 @@ git
 
 
 # DESC
+Manage git-repos from commandline
+
+
+# INSTALL
+
+`$ sudo apt install git`
 
 
 # CONFIG
@@ -57,4 +63,4 @@ Send committed files to the repo:
 
 `$ git push origin master`
 
-
+vi:syntax=sh:
