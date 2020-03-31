@@ -63,4 +63,4 @@ Send committed files to the repo:
 
 `$ git push origin master`
 
-[comment]: vi:syntax=sh:
+//: vi:syntax=sh:
