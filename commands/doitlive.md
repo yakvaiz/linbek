@@ -12,16 +12,14 @@ doitlive
 
 # config
 
-##
-
-
-[WARNING] Deprecated: markdown_github. Use gfm instead.
-[Comment magic (configuration)](https://doitlive.readthedocs.io/en/stable/#id6)[](https://doitlive.readthedocs.io/en/stable/#comment-magic-configuration)
+## <details><summary>[Comment magic (configuration)](https://doitlive.readthedocs.io/en/stable/#id6)[](https://doitlive.readthedocs.io/en/stable/#comment-magic-configuration)</summar>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p>
 
-Any line in a session file that begins with `#` is a comment. Comments
-are ignored unless they begin with `#doitlive`, in which case they are
-used to configure the session.
+Any line in a session file that begins with `#` is a comment.
+
+But, if they begin with `#doitlive` they are used to configure the
+session.
 
 The following options are available (all are optional).
 
@@ -116,7 +114,7 @@ Whether to echo comments or not. If enabled, non-magic comments will be
 echoed back in bold yellow before each prompt. This can be useful for
 providing some annotations for yourself and the audience.
 
-
+</p><details>
 
 
 # usage
