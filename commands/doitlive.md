@@ -12,7 +12,8 @@ doitlive
 
 # config
 
-## <details><summary>Comment magic (configuration)</summary><p>
+<details><summary>Comment magic (configuration)</summary>
+<p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Any line in a session file that begins with `#` is a comment.
