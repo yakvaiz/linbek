@@ -3,6 +3,10 @@
 
 **bold** *italic* [link](http://trt.net.tr)
 
+`<!---comment. NOTE: no space after/before the dashes--->`
+
+<!---comment. NOTE: no space after/before the dashes--->
+
 ----
 
 # Syntax guide
