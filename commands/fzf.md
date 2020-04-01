@@ -1,7 +1,6 @@
 # NAME
 fzf
 
-
 # DESC
 
 [fzf github](https://github.com/junegunn/fzf#installation)
