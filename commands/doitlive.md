@@ -12,7 +12,8 @@ doitlive
 
 # config
 
-## <details><summary>[Comment magic (configuration)](https://doitlive.readthedocs.io/en/stable/#id6)[](https://doitlive.readthedocs.io/en/stable/#comment-magic-configuration)</summar>
+## test
+<details><summary>[Comment magic (configuration)](https://doitlive.readthedocs.io/en/stable/#id6)[](https://doitlive.readthedocs.io/en/stable/#comment-magic-configuration)</summary>
 <p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
