@@ -8,17 +8,16 @@ A Git wrapper for vim
 
 # INSTALL
 
-* with `Vundle`:
-
-`Plugin 'hunegunn/fzf'`
+- with `Vundle`:
+    - `Plugin 'hunegunn/fzf'`
 
 
 # CONF
 
 # USAGE
 
-* git command:
-`:Git` or `:G`
+- git command:
+    - `:Git` or `:G`
 
 
 # EXTEND
