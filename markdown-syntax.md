@@ -1,3 +1,38 @@
+# collapsable
+
+```
+ ## collapsible markdown?
+
+ <details><summary>CLICK ME</summary>
+ <p>
+
+ #### yes, even hidden code blocks!
+
+ ```python
+ print("hello world!")
+ ```
+
+ </p>
+ </details>
+```
+
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
+
+
+# bold, italic, link, comment
 
 `**bold** *italic* [link](http://trt.net.tr)`
 
@@ -15,15 +50,9 @@
 
 ## Headers (with tags)
 
-```
-# This is an `<h1>` tag
-## This is an `<h2>` tag
-###### This is an `<h6>` tag
-```
-
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+ # This is an `<h1>` tag
+ ## This is an `<h2>` tag
+ ###### This is an `<h6>` tag
 
 ----
 

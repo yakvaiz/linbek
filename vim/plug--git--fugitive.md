@@ -4,26 +4,28 @@ vim-fugitive
 
 # DESC
 
-A Git wrapper for vim
+[vim-fugitive – A Git wrapper for vim](https://github.com/tpope/vim-fugitive)
 
 # INSTALL
 
-- with `Vundle`:
-    - `Plugin 'hunegunn/fzf'`
+With `Vundle`:
+
+`Plugin 'hunegunn/fzf'`
 
 
 # CONF
 
 # USAGE
 
-- git command:
-    - `:Git` or `:G`
+Git base-command:
+
+`:Git` or `:G`
 
 
 # EXTEND
 
 
-# tuts
+# TUTS
 
 ## screencasts
 
@@ -33,3 +35,7 @@ A Git wrapper for vim
 [Resolving merge conflicts with vimdiff](http://vimcasts.org/e/33)
 [Browsing the git object database](http://vimcasts.org/e/34)
 [Exploring the history of a git repo](http://vimcasts.org/e/35)
+
+## article
+[vimways – vim and git](https://vimways.org/2018/vim-and-git/)
+
