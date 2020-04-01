@@ -12,7 +12,7 @@ doitlive
 
 # config
 
-<details><summary>**Comment magic (configuration)**</summary>
+**<details><summary>Comment magic (configuration)</summary>**
 <p>
 -----------------------------------------------------------
 
