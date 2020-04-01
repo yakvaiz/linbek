@@ -12,8 +12,7 @@ doitlive
 
 # config
 
-## <details>[<summary>Comment magic (configuration)</summary>](https://doitlive.readthedocs.io/en/stable/#id6)[](https://doitlive.readthedocs.io/en/stable/#comment-magic-configuration)
-<p>
+## <details><summary>Comment magic (configuration)</summary><p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Any line in a session file that begins with `#` is a comment.
