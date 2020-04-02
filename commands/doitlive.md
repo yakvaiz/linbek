@@ -16,14 +16,14 @@ doitlive
 <p>
 -----------------------------------------------------------
 
-Any line in a session file that begins with `#` is a comment.
+Lines beginning with `#` are comments and getting ignored.
 
-But, if they begin with `#doitlive` they are used to configure the
+But, if they begin like `#doitlive` they are used to configure the
 session.
 
 The following options are available (all are optional).
 
-### #doitlive speed: <int>[](https://doitlive.readthedocs.io/en/stable/#doitlive-speed-int)
+### #doitlive speed: <int>
 
 configures “typing” speed. Defaults to 1.
 
@@ -31,7 +31,7 @@ Example:
 
     #doitlive speed: 3
 
-### #doitlive prompt: <theme_name_or_template>[](https://doitlive.readthedocs.io/en/stable/#doitlive-prompt-theme-name-or-template)
+### #doitlive prompt: <theme_name_or_template>
 
 configures the prompt. Can be any of the built-in themes or a custom
 prompt template.
@@ -75,7 +75,7 @@ Available styles: blue, magenta, red, white, green, black, yellow, cyan,
 bold, blink, underlined, dim, paren, square, curly, inverse, git, and
 hg.
 
-### #doitlive shell: <shell>[](https://doitlive.readthedocs.io/en/stable/#doitlive-shell-shell)
+### #doitlive shell: <shell>
 
 configures which shell is use. Defaults to the $SHELL environment
 variable.
@@ -84,7 +84,7 @@ Example:
 
     #doitlive shell: /bin/zsh
 
-### #doitlive alias: <alias>=<command>[](https://doitlive.readthedocs.io/en/stable/#doitlive-alias-alias-command)
+### #doitlive alias: <alias>=<command>
 
 adds an alias to the session.
 
@@ -92,7 +92,7 @@ Example:
 
     #doitlive alias: du="du -ach | sort -h"
 
-### #doitlive env: <envvar>=<value>[](https://doitlive.readthedocs.io/en/stable/#doitlive-env-envvar-value)
+### #doitlive env: <envvar>=<value>
 
 sets an environment variable.
 
@@ -100,15 +100,15 @@ Example:
 
     #doitlive env: EDITOR=vim
 
-### #doitlive unalias: <alias>[](https://doitlive.readthedocs.io/en/stable/#doitlive-unalias-alias)
+### #doitlive unalias: <alias>
 
 removes an alias.
 
-### #doitlive unset: <envvar>[](https://doitlive.readthedocs.io/en/stable/#doitlive-unset-envvar)
+### #doitlive unset: <envvar>
 
 unsets an environment variable.
 
-### #doitlive commentecho: [true\|false][](https://doitlive.readthedocs.io/en/stable/#doitlive-commentecho-true-false)
+### #doitlive commentecho: [true\|false]
 
 Whether to echo comments or not. If enabled, non-magic comments will be
 echoed back in bold yellow before each prompt. This can be useful for
@@ -158,5 +158,7 @@ All commands will be written to a `session.sh` file.
 # tuts
 
 
+# docs
 
+[manual](https://doitlive.readthedocs.io/en/stable/)
 

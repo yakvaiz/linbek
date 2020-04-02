@@ -71,3 +71,24 @@ unalias **<tab>
 
 [Related Projects](https://github.com/junegunn/fzf/wiki/Related-projects)
 
+## fzf-vim
+
+[fzf-vim](https://github.com/junegunn/fzf/blob/master/README-VIM.md)
+
+### install
+
+Once you have fzf installed, you can enable it inside Vim simply by adding the directory to &runtimepath in your Vim configuration file. The path may differ depending on the package manager.
+
+    " If installed using Homebrew
+    set rtp+=/usr/local/opt/fzf
+
+    " If installed using git
+    set rtp+=~/.fzf
+
+If you use vim-plug, the same can be written as:
+
+    " If installed using Homebrew
+    Plug '/usr/local/opt/fzf'
+
+    " If installed using git
+    Plug '~/.fzf'

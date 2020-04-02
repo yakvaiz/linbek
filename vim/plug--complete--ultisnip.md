@@ -34,8 +34,11 @@ And run this command in vim:
 
 # config
 
+## path & co
+
 <details><summary>Custom directory for mysnippets (`:UltisnipsEdit`)</summary>
 <p>
+
 Directory for custom snippets, which can be edited using the command `:UltisnipsEdit`:
 
 `let g:UltiSnipsSnippetDirectories=["mysnippets"]`
@@ -54,8 +57,15 @@ NOTE: path to mysnippets has to be in runtimepath like:
 
 ## screencasts
 
+SIRVER:
+
 [Episode 1: What are snippets and do I need them?](http://www.sirver.net/blog/2011/12/30/first-episode-of-ultisnips-screencast/)
 [Episode 2: Creating Basic Snippets](http://www.sirver.net/blog/2012/01/08/second-episode-of-ultisnips-screencast/)
 [Episode 3: What's new in version 2.0](http://www.sirver.net/blog/2012/02/05/third-episode-of-ultisnips-screencast/)
 [Episode 4: Python Interpolation](http://www.sirver.net/blog/2012/03/31/fourth-episode-of-ultisnips-screencast/)
 
+VIMCASTS:
+
+[Meet UltiSnips](http://vimcasts.org/episodes/meet-ultisnips/)
+[Using Python interpolation in UltiSnips snippets](http://vimcasts.org/episodes/ultisnips-python-interpolation/)
+[Using selected text in UltiSnips snippets](http://vimcasts.org/episodes/ultisnips-visual-placeholder/)
