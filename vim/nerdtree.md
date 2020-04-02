@@ -11,7 +11,8 @@
 ## mappings
 
 " toggle Nerdtree
-map <C-n> :NERDTreeToggle<CR>
+
+    `map <C-n> :NERDTreeToggle<CR>`
 
 ### open nerdtree when opening a directory
 
