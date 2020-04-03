@@ -92,3 +92,11 @@ If you use vim-plug, the same can be written as:
 
     " If installed using git
     Plug '~/.fzf'
+
+
+# TUTS
+
+## vids
+
+[fzf Tutorial 2019 – Kris Occhipinti](https://www.youtube.com/watch?v=ykz4jiInC0g)
+
