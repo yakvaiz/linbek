@@ -10,6 +10,10 @@
 # shell
 * [Search ](https://github.com/search?o=desc&p=11&q=shell&s=stars&type=Repositories)
 * [master-the-commandline](https://github.com/jlevy/the-art-of-command-line#more-resources)
+
+ [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+ Master the command line, in one page
+
 * [awesome shell](https://github.com/alebcay/awesome-shell)
 * [bash-handbook](https://github.com/denysdovhan/bash-handbook)
 * [bash-guide](https://github.com/Idnan/bash-guide)
