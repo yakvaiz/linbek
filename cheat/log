@@ -1,0 +1,53 @@
+--2020-04-13 18:16:48--  https://raw.githubusercontent.com/yakvaiz/linbek/master/cheat/conf.yml
+Auflösen des Hostnamens raw.githubusercontent.com (raw.githubusercontent.com) … 151.101.112.133
+Verbindungsaufbau zu raw.githubusercontent.com (raw.githubusercontent.com)|151.101.112.133|:443 … verbunden.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 3077 (3,0K) [text/plain]
+Wird in »/home/ay/.config/cheat/conf.yml« gespeichert.
+
+     0K ...                                                   100% 12,5M=0s
+
+2020-04-13 18:16:48 (12,5 MB/s) - »/home/ay/.config/cheat/conf.yml« gespeichert [3077/3077]
+
+cp: reguläre Datei '_/home/ay/cheat.tar.gz_back' kann nicht angelegt werden: Datei oder Verzeichnis nicht gefunden
+--2020-04-13 18:16:48--  https://github.com/yakvaiz/linbek/raw/master/cheat/cheat.tar.gz
+Auflösen des Hostnamens github.com (github.com) … 140.82.118.4
+Verbindungsaufbau zu github.com (github.com)|140.82.118.4|:443 … verbunden.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 302 Found
+Platz: https://raw.githubusercontent.com/yakvaiz/linbek/master/cheat/cheat.tar.gz [folgend]
+--2020-04-13 18:16:48--  https://raw.githubusercontent.com/yakvaiz/linbek/master/cheat/cheat.tar.gz
+Auflösen des Hostnamens raw.githubusercontent.com (raw.githubusercontent.com) … 151.101.112.133
+Verbindungsaufbau zu raw.githubusercontent.com (raw.githubusercontent.com)|151.101.112.133|:443 … verbunden.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 51438 (50K) [application/octet-stream]
+Wird in »/home/ay/cheat.tar.gz« gespeichert.
+
+     0K .......... .......... .......... .......... .......... 99%  827K 0s
+    50K                                                       100%  443G=0,06s
+
+2020-04-13 18:16:48 (831 KB/s) - »/home/ay/cheat.tar.gz« gespeichert [51438/51438]
+
+cheat/cs/work/
+cheat/cs/ay/c
+cheat/cs/ay/shell:the-art-of-commandline
+cheat/cs/bek/
+cheat/cs/ay/
+cheat/cs/bek/vim
+cheat/cs/command/ffmpeg
+cheat/cs/bek/040720-cheat1
+cheat/cs/bek/0
+cheat/cs/command/sed
+cheat/cs/community/
+cheat/cs/command/
+cheat/cs/ay/ay_tool_ffscreencast
+cheat/cs/ay/cheat
+cheat/cs/ay/note:nachbar
+cheat/cs/ay/code
+cheat/cs/
+cheat/
+cheat/cs/web/
+cheat/cs/ay/virtualbox
+cheat/cs/ay/youtube-dl
+cheat/cs/ay/list:mmm
+cheat/cs/ay/shell:master-the-commandline
+/home/ay/my/people/berki/github-repo/linbek/cheat

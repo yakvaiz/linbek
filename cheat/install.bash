@@ -1,14 +1,16 @@
 
 cheat_conf=https://raw.githubusercontent.com/yakvaiz/linbek/master/cheat/conf.yml
 cheat_conf_dest="$HOME/.config/cheat/conf.yml"
-cheat_sheets=https://github.com/yakvaiz/linbek/blob/master/cheat/cs.tar.gz
-cheat_sheets_dest="$HOME/cheat"
+cheat_sheets_remote=https://github.com/yakvaiz/linbek/raw/master/cheat/cheat.tar.gz
+cheat_sheets_local="$HOME/cheat.tar.gz"
 
 
-mv $cheat_conf_dest ${cheat_conf_dest/./_back.}
-cp $cheat_conf $cheat_conf_dest
+mv $cheat_conf_dest ${cheat_conf_dest/./_back.} 2> /dev/null
+wget $cheat_conf -O $cheat_conf_dest
+# curl -OL $cheat_conf
 
-cp -r $cheat_sheets_dest _${cheat_sheets_dest}_back
-cp $cheat_sheets $cheat_sheets_dest
-
-tar xvfz $cheat_sheets $cheat_sheets_dest
+cp -r $cheat_sheets_local _${cheat_sheets_local}_back
+wget $cheat_sheets_remote -O $cheat_sheets_local
+cd
+tar xvfz $cheat_sheets_local
+cd -
